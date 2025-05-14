@@ -34,4 +34,8 @@ pip install "mcp[cli]"
 uv run mcp install 'file path'
 ```
 
-### 3. Access from Claude
+### 3. Claude + MCP Integration
+![MCP Server Added](assets/added.png)
+
+### 🤖 Claude Using Local Tools via MCP
+![Tool Result](assets/result.png)
